@@ -17,7 +17,7 @@ class HomeView extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               const SizedBox(
-                height: 400,
+                height: 300,
               ),
               GlassEffectButton(
                 ontap: () {},
@@ -25,7 +25,7 @@ class HomeView extends StatelessWidget {
                 child: const Text('FLUTTER'),
               ),
               const SizedBox(
-                height: 20,
+                height: 200,
               ),
               GlassEffectButton(
                 ontap: () {},
