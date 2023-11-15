@@ -8,6 +8,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  glass_button_package:
+    path: ../
 
 dev_dependencies:
   flutter_test:
@@ -15,4 +17,7 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
+
   uses-material-design: true
+  assets:
+    - assets/images/png/
