@@ -1,4 +1,4 @@
-# flutter_glasseffect_button
+# Flutter_GlassEffect_Button
 
 In Flutter, a glass button was designed by giving a click feature inside the glass container.
 
