@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* TODO: Migrated to stable version and a bug is fixed.
+
+## 0.0.2
+
+* TODO: Migrated to stable version and a bug is fixed.
