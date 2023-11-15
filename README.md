@@ -105,6 +105,13 @@ This project includes a sample button for educational purposes that demonstrates
 | iOS          | 11.0+   |
 | Web          | Any*    |
 
+## 📝 License
+
+Copyright © 2023 [Nurhayat Yurtaslan](https://github.com/NurhayatYurtaslan).<br />
+Copyright © 2023 [Abdulsamed Tanriverdi](https://github.com/Allahverdyy).<br />
+
+This project is [MIT](https://github.com/Allahverdyy/glass_button_package/blob/main/LICENSE) licensed.
+
 ## Contributors 💻🖱️
 
 Creators of the Flutter Glass Effect Button
