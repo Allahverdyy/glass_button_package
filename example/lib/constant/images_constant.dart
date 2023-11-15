@@ -1,0 +1,1 @@
+const String flutterbg = 'assets/images/png/flutter_bg.png';
